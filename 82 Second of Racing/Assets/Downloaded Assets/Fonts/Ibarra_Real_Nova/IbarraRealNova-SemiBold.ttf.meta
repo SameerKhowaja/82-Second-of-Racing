@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 4b9260e9eaee733409992f7ab076ac73
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ibarra Real Nova
+  fontNames:
+  - Ibarra Real Nova
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3dd80f71972c5f240abc41a7d080cd18, type: 3}
+  - {fileID: 12800000, guid: 32d92002111f6e24c86359dd23ce9c57, type: 3}
+  - {fileID: 12800000, guid: 2f4c5aa250d327840b3518c7e1408bdb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
